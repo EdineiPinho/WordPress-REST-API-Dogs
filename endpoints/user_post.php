@@ -33,4 +33,5 @@ function register_api_user_post() {
 }
 add_action('rest_api_init', 'register_api_user_post');
 
+
 ?>
